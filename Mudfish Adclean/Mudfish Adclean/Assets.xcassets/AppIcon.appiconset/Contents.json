@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "bordered_whitefilled_1024x1024.png",
+      "filename" : "bordered_whitefilled_1024x1024_noalpha.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
